@@ -169,7 +169,9 @@ Python server-side code using Flask to handle encryption and decryption requests
 
 ## 🖼️ Screenshots
 
-*Add screenshots of your extension here to give users a visual overview of your application. Maybe add a cat picture too. Everyone loves cats.*
+![Home](https://github.com/MoriMidoriya/WEBLOCK/assets/91540376/d4c35639-8b83-4788-9007-5702652874f8)
+![Save](https://github.com/MoriMidoriya/WEBLOCK/assets/91540376/7e38759d-572c-4c2d-a9f0-ebff4b04ab75)
+
 
 ## 📞 Contact
 
